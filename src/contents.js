@@ -39,11 +39,71 @@ module.exports = {
         ]
       },
       {
+        'date': '2017.03 - 현재',
+        'title': '드로이드 나이츠',
+        'contents': [
+          '드로이드 나이츠 2017/2018 오거나이저',
+          '- 행사 준비'
+        ]
+      },
+      {
         'date': '2018.09',
         'title': '9XD & GDG Seoul 해커톤',
         'contents': [
-          '9XD & GDG Seoul 해커톤 스태프',
-          '- 행사 준비 및 당일 행사 참여'
+          '9XD & GDG Seoul 해커톤 스태프'
+        ]
+      },
+      {
+        'date': '2018.08',
+        'title': 'I/O \'18 Extended Android Overflow',
+        'contents': [
+          'I/O \'18 Extended Android Overflow 오거나이저'
+        ]
+      },
+      {
+        'date': '2018.06',
+        'title': 'Google I/O Extended 2018 Seoul',
+        'contents': [
+          'Google I/O Extended 2018 Seoul 오거나이저'
+        ]
+      },
+      {
+        'date': '2018.04',
+        'title': 'Women Techmakers 2018 Korea',
+        'contents': [
+          'Women Techmakers 2018 Korea Codelab 튜터',
+          '- Android Things Codelab',
+          '- Actions on Google Codelab'
+        ]
+      },
+      {
+        'date': '2018.02',
+        'title': 'GDG Korea Android Lightning Talk',
+        'contents': [
+          'GDG Korea Android Lightning Talk 오거나이저'
+        ]
+      },
+      {
+        'date': '2017.11',
+        'title': 'DevFest 2017 Seoul',
+        'contents': [
+          'DevFest 2017 Seoul 오거나이저'
+        ]
+      },
+      {
+        'date': '2017.07',
+        'title': 'Google I/O 2017 Extended Android Codelabs',
+        'contents': [
+          'Google I/O 2017 Extended Android Codelabs 오거나이저',
+          '- 행사 준비',
+          '- Android Architecture Components 발표'
+        ]
+      },
+      {
+        'date': '2017.07',
+        'title': 'Google I/O Extended 2017 Seoul',
+        'contents': [
+          'Google I/O Extended 2017 Seoul 오거나이저'
         ]
       },
       {
@@ -53,6 +113,96 @@ module.exports = {
           'Android 책 검토 및 리뷰',
           '닐 스미스 저 / 심재철 역',
           '출판사 : 제이펍'
+        ]        
+      }
+    ],
+    '발표 자료': [
+      {
+        'date': '2018.08',
+        'title': 'Google I/O \'18 Extended In Daejeon',
+        'contents': [
+          '발표 제목 : ConstraintLayout Sunflower',
+          '- <a href="https://speakerdeck.com/pluu/o-18-extended-in-daejeon-part2">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2018.03',
+        'title': 'LTNS, 9XD! ; 10회 모임',
+        'contents': [
+          '발표 제목 : 안드로이드 팀원에게 약 주입하기',
+          '- <a href="https://speakerdeck.com/pluu/andeuroideu-timweonege-yag-juibhagi">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2017.10',
+        'title': 'GDG DevFest Incheon 2017',
+        'contents': [
+          '발표 제목 : The Basic Kotlin',
+          '- <a href="https://speakerdeck.com/pluu/the-basic-kotlin">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2017.10',
+        'title': 'Emocon 2017 F/W',
+        'contents': [
+          '발표 제목 : Kotlin != GOOD 성배',
+          '- <a href="https://speakerdeck.com/pluu/kotlin-equals-good-seongbae">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2017.09',
+        'title': 'App Excellence Program 9월',
+        'contents': [
+          '발표 제목 : Kotlin? Kotlin!',
+          '- <a href="https://speakerdeck.com/pluu/kotlin-kotlin">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2017.07',
+        'title': 'Google I/O 2017 extended Android Codelabs',
+        'contents': [
+          '발표 제목 : Android Architecture Components',
+          '- <a href="https://speakerdeck.com/pluu/android-architecture-components">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2017.06',
+        'title': 'Google io extended \'17 인천',
+        'contents': [
+          '발표 제목 : Android Extended in I/O \'17',
+          '- <a href="https://www.slideshare.net/HyeonSeokNoh/google-io-extended-17">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2016.12',
+        'title': 'GDG Korea, 2016년 12월 정기 모임',
+        'contents': [
+          '발표 제목 : 나의 공부와 수집',
+          '- <a href="https://www.slideshare.net/HyeonSeokNoh/ss-70137776">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2016.07',
+        'title': '이상한모임 720',
+        'contents': [
+          '발표 제목 : 내 코드를 믿지 마라',
+          '- <a href="https://www.slideshare.net/HyeonSeokNoh/720-69294634">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2016.06',
+        'title': '2016 Google I/O Extended @Incheon',
+        'contents': [
+          '발표 제목 : Android Development',
+          '- <a href="https://www.slideshare.net/HyeonSeokNoh/android-development-63440911">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2015.11',
+        'title': 'Realm 11월 개발자 모임',
+        'contents': [
+          '발표 제목 : SqliteToRealm',
+          '- <a href="https://www.slideshare.net/HyeonSeokNoh/sqlitetorealm">[발표 링크]</a>'
         ]        
       }
     ],
@@ -78,35 +228,35 @@ module.exports = {
         'date': ['2016.05', '현재'],
         'title': '야놀자',
         'contents': [
-          'Android 서비스 및 아키텍쳐 개발'
+          'Android 어플리케이션 및 아키텍쳐 개발',
         ]
       },
       {
         'date': ['2015.05', '2016.03'],
         'title': 'EDLSolution',
         'contents': [
-          'Android 서비스 개발'
+          'Android 어플리케이션 개발'
         ]
       },
       {
         'date': ['2014.04', '2015.04'],
         'title': '유니크인',
         'contents': [
-          'Android 서비스 개발'
+          'Android 어플리케이션 개발'
         ]
       },
       {
         'date': ['2011.11', '2014.04'],
         'title': '(주) Hubilon',
         'contents': [
-          'Android 서비스 개발'
+          'Android 어플리케이션 개발'
         ]
       },
       {
         'date': ['2009.11', '2011.09'],
         'title': '일본 TOMAMO',
         'contents': [
-          'Android 서비스 개발'
+          '웹시스템/응용프로그램/모바일 어플리케이션 개발'
         ]
       }
     ]
