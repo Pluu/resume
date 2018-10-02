@@ -9533,7 +9533,7 @@ module.exports = {
     '야놀자': {
       'date': '2016.05 - 현재',
       'info': '좋은 숙박을 연구하고 대한민국 숙박산업을 선도합니다.',
-      'service': ['Android App<br />', '- <a href="https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp">야놀자 Android 어플리케이션</a> <br />'],
+      'service': ['Android App<br />', '- <a href="https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp">야놀자 Android Google Play Link</a> <br />'],
       'project': {
         'project': [{
           'date': '2017.01 - 현재',
@@ -9923,27 +9923,31 @@ var render = function() {
                   _vm._v(" "),
                   _c("h5", [_vm._v(_vm._s(detailContent.date))]),
                   _vm._v(" "),
-                  _c("div", { staticClass: "div-sub-title" }, [
-                    _c("h4", [_vm._v("[회사 소개]")]),
-                    _vm._v(" "),
-                    _c("p", [_vm._v(_vm._s(detailContent.info))])
-                  ]),
+                  detailContent.info
+                    ? _c("div", { staticClass: "div-sub-title" }, [
+                        _c("h4", [_vm._v("[회사 소개]")]),
+                        _vm._v(" "),
+                        _c("p", [_vm._v(_vm._s(detailContent.info))])
+                      ])
+                    : _vm._e(),
                   _vm._v(" "),
-                  _c(
-                    "div",
-                    { staticClass: "div-sub-title" },
-                    [
-                      _c("h4", [_vm._v("[서비스]")]),
-                      _vm._v(" "),
-                      _vm._l(detailContent.service, function(service) {
-                        return _c("p", {
-                          key: service.id,
-                          domProps: { innerHTML: _vm._s(service) }
-                        })
-                      })
-                    ],
-                    2
-                  ),
+                  detailContent.service
+                    ? _c(
+                        "div",
+                        { staticClass: "div-sub-title" },
+                        [
+                          _c("h4", [_vm._v("[서비스]")]),
+                          _vm._v(" "),
+                          _vm._l(detailContent.service, function(service) {
+                            return _c("p", {
+                              key: service.id,
+                              domProps: { innerHTML: _vm._s(service) }
+                            })
+                          })
+                        ],
+                        2
+                      )
+                    : _vm._e(),
                   _vm._v(" "),
                   _c(
                     "div",

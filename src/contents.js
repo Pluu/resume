@@ -269,7 +269,7 @@ module.exports = {
       'info': '좋은 숙박을 연구하고 대한민국 숙박산업을 선도합니다.',
       'service': [
         'Android App<br />',
-        '- <a href="https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp">야놀자 Android 어플리케이션</a> <br />'
+        '- <a href="https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp">야놀자 Android Google Play Link</a> <br />'
       ],
       'project': {
         'project': [
