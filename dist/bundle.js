@@ -9403,11 +9403,11 @@ module.exports = {
       'contents': ['']
     }, {
       'date': 'Language',
-      'title': 'Java / Kotlin',
+      'title': 'Kotlin, Java',
       'contents': ['']
     }, {
       'date': 'Library',
-      'title': 'Retrofit / OkHttp / Glide',
+      'title': 'Constraint Layout, Retrofit, OkHttp, Fabric, Glide, Android Architecture Component(LiveData, ViewModel), Google Maps, ButterKnife, Firebase, Gson',
       'contents': ['']
     }],
     '개인 활동': [{
@@ -9510,11 +9510,11 @@ module.exports = {
     '경력 요약': [{
       'date': ['2016.05', '현재'],
       'title': '야놀자',
-      'contents': ['Android 어플리케이션 및 아키텍쳐 개발']
+      'contents': ['Android 어플리케이션 개발 및 기본 아키텍쳐 설계']
     }, {
       'date': ['2015.05', '2016.03'],
       'title': 'EDLSolution',
-      'contents': ['Android 어플리케이션 개발']
+      'contents': ['Android 어플리케이션 개발', 'Crash/Log 수집 SDK 개발']
     }, {
       'date': ['2014.04', '2015.04'],
       'title': '유니크인',
@@ -9522,7 +9522,7 @@ module.exports = {
     }, {
       'date': ['2011.11', '2014.04'],
       'title': '(주) Hubilon',
-      'contents': ['Android 어플리케이션 개발']
+      'contents': ['Android 어플리케이션 개발', '지도 측위 모듈 개발']
     }, {
       'date': ['2009.11', '2011.09'],
       'title': '일본 TOMAMO',
@@ -9538,11 +9538,31 @@ module.exports = {
         'project': [{
           'date': '2017.01 - 현재',
           'title': '야놀자 서비스 개발',
-          'contents': []
+          'contents': ['- 서비스 및 기능 구현', '- 기본 아키텍쳐 (MVP, Base, Util Code) 설계 및 개발 구현', '- Retrofit Primitive TypeAdapter Support 작업', '- Kotlin 도입 및 교육 담당', '- GitHub Code Review 기본 가이드 안내', '- 사용 라이브러리 : Kotlin, Constraint Layout, Retrofit, OkHttp, ButterKnife, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Fabric, Gson, Google Maps']
         }, {
           'date': '2016.05 - 2018.04',
           'title': '바로예약 서비스 개발',
-          'contents': []
+          'contents': ['- 서비스 및 기능 구현', '- 2018년 5월 서비스 종료', '- 사용 라이브러리 : Retrofit, OkHttp, ButterKnife, Glide, Fabric, Gson']
+        }]
+      }
+    },
+    'EDLSolution': {
+      'date': '2015.05 - 2016.03',
+      'project': {
+        'project': [{
+          'date': '2015.06 - 2016.01',
+          'title': '모바일 게임 SDK 개발',
+          'contents': ['- CrashReport 수집 SDK 프로토타입 개발', '- Java Native Crash, JNI Crash Log Support', '- 게임용 SDK 프로토타입 Android Native Sample SDK 개발', '- Facebook, Google Sign Support', '- 서비스 UI 및 기능 구현', '- 사용 라이브러리 : Java, OkHttp']
+        }]
+      }
+    },
+    '유니크인': {
+      'date': '2014.04 - 2015.04',
+      'project': {
+        'project': [{
+          'date': '2014.04 - 2015.04',
+          'title': '실시간 데이팅 어플리케이션 개발',
+          'contents': ['- Base Class 작업', '- 유틸리티 기능 개발', '- 서비스 기본 위젯 개발', '- 이미지 후처리, Picasso Transformation 기능 작업', '- 서비스 Base 통신 모듈 작업', '- 메인화면 애니메이션 처리', '- 서비스 및 기능 구현']
         }]
       }
     }

@@ -21,12 +21,12 @@ module.exports = {
       },
       {
         'date': 'Language',
-        'title': 'Java / Kotlin',
+        'title': 'Kotlin, Java',
         'contents': ['']
       },
       {
         'date': 'Library',
-        'title': 'Android Architecture Component(LiveData, ViewModel), Google Maps, Constraint Layout, Kotlin, ButterKnife, Retrofit, OkHttp, Glide, Firebase, Fabric, Gson',
+        'title': 'Constraint Layout, Retrofit, OkHttp, Fabric, Glide, Android Architecture Component(LiveData, ViewModel), Google Maps, ButterKnife, Firebase, Gson',
         'contents': ['']
       }
     ],
@@ -278,10 +278,11 @@ module.exports = {
             'title': '야놀자 서비스 개발',
             'contents': [
               '- 서비스 및 기능 구현',
-              '- 기본 아키텍쳐 (MVP, MVVM, Base, Util Code) 설계 담당',
+              '- 기본 아키텍쳐 (MVP, Base, Util Code) 설계 및 개발 구현',
+              '- Retrofit Primitive TypeAdapter Support 작업',
               '- Kotlin 도입 및 교육 담당',
               '- GitHub Code Review 기본 가이드 안내',
-              '- Android Architecture Component(LiveData, ViewModel), Google Maps, Constraint Layout, Kotlin, ButterKnife, Retrofit, OkHttp, Glide, Firebase, Fabric, Gson'
+              '- 사용 라이브러리 : Kotlin, Constraint Layout, Retrofit, OkHttp, ButterKnife, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Fabric, Gson, Google Maps'
             ]
           },
           {
@@ -289,7 +290,8 @@ module.exports = {
             'title': '바로예약 서비스 개발',
             'contents': [
               '- 서비스 및 기능 구현',
-              '- 2018년 5월 서비스 종료'
+              '- 2018년 5월 서비스 종료',
+              '- 사용 라이브러리 : Retrofit, OkHttp, ButterKnife, Glide, Fabric, Gson'
             ]
           }
         ]
@@ -308,7 +310,7 @@ module.exports = {
               '- 게임용 SDK 프로토타입 Android Native Sample SDK 개발',
               '- Facebook, Google Sign Support',
               '- 서비스 UI 및 기능 구현',
-              '- Java, OkHttp'
+              '- 사용 라이브러리 : Java, OkHttp'
             ]
           }
         ]
@@ -322,9 +324,9 @@ module.exports = {
             'date': '2014.04 - 2015.04',
             'title': '실시간 데이팅 어플리케이션 개발',
             'contents': [
+              '- Base Class 작업',
               '- 유틸리티 기능 개발',
               '- 서비스 기본 위젯 개발',
-              '- Base Class 작업',
               '- 이미지 후처리, Picasso Transformation 기능 작업',
               '- 서비스 Base 통신 모듈 작업',
               '- 메인화면 애니메이션 처리',
