@@ -42,8 +42,15 @@ module.exports = {
         'date': '2017.03 - 현재',
         'title': '드로이드 나이츠',
         'contents': [
-          '드로이드 나이츠 2017/2018 오거나이저',
+          '드로이드 나이츠 2017/2018/2019 오거나이저',
           '- 행사 준비'
+        ]
+      },
+      {
+        'date': '2018.11',
+        'title': 'DevFest 2018 Seoul',
+        'contents': [
+          'DevFest 2018 Seoul 오거나이저'
         ]
       },
       {
@@ -318,6 +325,9 @@ module.exports = {
     },
     '유니크인': {
       'date': '2014.04 - 2015.04',
+      'service': [
+        '<a href="http://pluu.github.io/project/2014/07/01/ssumting/">스크린샷 및 구현 동작</a> <br />'
+      ],
       'project': {
         'project': [
           {
@@ -330,7 +340,72 @@ module.exports = {
               '- 이미지 후처리, Picasso Transformation 기능 작업',
               '- 서비스 Base 통신 모듈 작업',
               '- 메인화면 애니메이션 처리',
-              '- 서비스 및 기능 구현'
+              '- 서비스 및 기능 구현',
+              '- 사용 라이브러리 : Jsoup, Picasso, ViewPagerIndicator'
+            ]
+          }
+        ]
+      }
+    },
+    '휴빌론': {
+      'date': '2011.11 - 2014.04',
+      'service': [
+        '<a href="http://pluu.github.io/project/2012/11/01/smart-inside/">스크린샷</a> <br />'
+      ],
+      'project': {
+        'project': [
+          {
+            'date': '2012.11 - 2014.04',
+            'title': 'LBS, 실내 측위 서비스 개발 (Android)',
+            'contents': [
+              '- 서비스 UI 및 기능 구현',
+              '- Custom View 작업',
+              '- 외부 시연 및 사업 대응 앱 제작',
+              '- 측위 엔진으로 수집된 측위 정보를 이용한 길안내 서비스',
+              '- JSON 기반 동적 UI 구현',
+              '- iOS 라이브러리 구현 지원',
+              '- 사내 지도 CustomView 핸들링 추가 및 수정',
+              '- 사용 라이브러리 : Volley, ViewPagerIndicator'
+            ]
+          },
+          {
+            'date': '2011.11 - 2012.04',
+            'title': '올레맵, 실외 지도 서비스 (Android)',
+            'contents': [
+              '- 서비스 유지 보수',
+              '- 올레맵 라이브러리를 사용한 추가 기능 개발',
+              '- 화면 UI 수정',
+              '- 사용 라이브러리 : ktmap'
+            ]
+          }
+        ]
+      }
+    },
+    '일본 (주) TOMATO': {
+      'date': '2009.11 - 2011.09',
+      'service': [
+        '<a href="http://pluu.github.io/project/2010/09/01/casio/">스크린샷</a> <br />'
+      ],
+      'project': {
+        'project': [
+          {
+            'date': '2011.06 - 2011.09',
+            'title': '스케쥴 관리 프로그램',
+            'contents': [
+              '- 스케쥴 관리 프로그램 버전업 대응 (고객 요구 대응)',
+              '- Promise Mail Customize (NEC) 전용 앱 개발',
+              '- Promise Mail v2.0 기반 이벤트 표시 노출 처리',
+              '- 일정 표시 대응을 위한 CustomView 구현',
+              '- 서비스 UI 및 기능 구현'
+            ]
+          },
+          {
+            'date': '2010.00 - 2010.12',
+            'title': '스마트폰 앱 개발',
+            'contents': [
+              '- 회사 홍보용 앱 개발',
+              '- Flip Clock 효과를 이용한 타이머 구현',
+              '- http://pluu.github.io/project/2010/09/01/casio/'
             ]
           }
         ]
