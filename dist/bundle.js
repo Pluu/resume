@@ -9460,6 +9460,14 @@ module.exports = {
       'contents': ['Android 책 검토 및 리뷰', '닐 스미스 저 / 심재철 역', '출판사 : 제이펍']
     }],
     '발표 자료': [{
+      'date': '2018.11',
+      'title': '우리는 안드로이드 개발자입니다',
+      'contents': ['발표 제목 : Android + DI + Koin = Easy?!', '- <a href="https://speakerdeck.com/pluu/android-plus-di-plus-koin-equals-easy">[발표 링크]</a>']
+    }, {
+      'date': '2018.11',
+      'title': 'GDG DevFest Daejeon 2018',
+      'contents': ['발표 제목 : \'Koin\' 으로 Android DI 하기', '- <a href="https://speakerdeck.com/pluu/koin-euro-android-di-hagi">[발표 링크]</a>']
+    }, {
       'date': '2018.08',
       'title': 'Google I/O \'18 Extended In Daejeon',
       'contents': ['발표 제목 : ConstraintLayout Sunflower', '- <a href="https://speakerdeck.com/pluu/o-18-extended-in-daejeon-part2">[발표 링크]</a>']
@@ -9542,7 +9550,7 @@ module.exports = {
         'project': [{
           'date': '2017.01 - 현재',
           'title': '야놀자 서비스 개발',
-          'contents': ['- 서비스 및 기능 구현', '- 기본 아키텍쳐 (MVP, Base, Util Code) 설계 및 개발 구현', '- Retrofit Primitive TypeAdapter Support 작업', '- Kotlin 도입 및 교육 담당', '- GitHub Code Review 기본 가이드 안내', '- 사용 라이브러리 : Kotlin, Constraint Layout, Retrofit, OkHttp, ButterKnife, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Fabric, Gson, Google Maps']
+          'contents': ['- 서비스 및 기능 구현', '- 기본 아키텍쳐 (MVP, MVVM, Base, Util Code) 설계 및 개발 구현', '- Retrofit Primitive TypeAdapter Support 작업', '- Kotlin 도입 및 교육 담당', '- GitHub Code Review 기본 가이드 안내', '- 사용 라이브러리 : Kotlin, Constraint Layout, Retrofit, OkHttp, ButterKnife, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Fabric, Gson, Google Maps']
         }, {
           'date': '2016.05 - 2018.04',
           'title': '바로예약 서비스 개발',
