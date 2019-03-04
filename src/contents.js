@@ -248,7 +248,14 @@ module.exports = {
   summary: {
     '경력 요약': [
       {
-        'date': ['2016.05', '현재'],
+        'date': ['2019.01', '현재'],
+        'title': '네이버',
+        'contents': [
+          'Android 어플리케이션 개발 및 기본 아키텍쳐 설계',
+        ]
+      },
+      {
+        'date': ['2016.05', '2019.01'],
         'title': '야놀자',
         'contents': [
           'Android 어플리케이션 개발 및 기본 아키텍쳐 설계',
@@ -287,8 +294,20 @@ module.exports = {
     ]
   },
   detailContents: {
+    '네이버': {
+      'date': '2019.01 - 현재',
+      'project': {
+        'project': [
+          {
+            'date': '2019.01 - 현재',
+            'title': 'Naver Clova 서비스 개발',
+            'contents': []
+          }
+        ]
+      }
+    },
     '야놀자': {
-      'date': '2016.05 - 현재',
+      'date': '2016.05 - 2019.01',
       'info': '좋은 숙박을 연구하고 대한민국 숙박산업을 선도합니다.',
       'service': [
         'Android App<br />',
@@ -297,7 +316,7 @@ module.exports = {
       'project': {
         'project': [
           {
-            'date': '2017.01 - 현재',
+            'date': '2017.01 - 2019.01',
             'title': '야놀자 서비스 개발',
             'contents': [
               '- 서비스 및 기능 구현',
