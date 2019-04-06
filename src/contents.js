@@ -125,6 +125,23 @@ module.exports = {
     ],
     '발표 자료': [
       {
+        'date': '2019.04',
+        'title': 'DroidKnights 2019',
+        'contents': [
+          '발표 제목 : MotionLayout 무릎까지 담궈보기',
+          '- <a href="https://speakerdeck.com/pluu/motionlayout-mureupggaji-damgweobogi">[발표 링크]</a>',
+          '- <a href="https://www.youtube.com/watch?v=bHp-pIpm92s">[Keynote 동영상]</a>'
+        ]        
+      },
+      {
+        'date': '2019.01',
+        'title': '기술 문서 번역 모임: 번역 도구 이야기',
+        'contents': [
+          '발표 제목 : 성장하기 위해 번역하는 나',
+          '- <a href="https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na">[발표 링크]</a>'
+        ]        
+      },
+      {
         'date': '2018.11',
         'title': '우리는 안드로이드 개발자입니다',
         'contents': [

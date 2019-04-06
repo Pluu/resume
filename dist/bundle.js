@@ -9460,6 +9460,14 @@ module.exports = {
       'contents': ['Android 책 검토 및 리뷰', '닐 스미스 저 / 심재철 역', '출판사 : 제이펍']
     }],
     '발표 자료': [{
+      'date': '2019.04',
+      'title': 'DroidKnights 2019',
+      'contents': ['발표 제목 : MotionLayout 무릎까지 담궈보기', '- <a href="https://speakerdeck.com/pluu/motionlayout-mureupggaji-damgweobogi">[발표 링크]</a>', '- <a href="https://www.youtube.com/watch?v=bHp-pIpm92s">[Keynote 동영상]</a>']
+    }, {
+      'date': '2019.01',
+      'title': '기술 문서 번역 모임: 번역 도구 이야기',
+      'contents': ['발표 제목 : 성장하기 위해 번역하는 나', '- <a href="https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na">[발표 링크]</a>']
+    }, {
       'date': '2018.11',
       'title': '우리는 안드로이드 개발자입니다',
       'contents': ['발표 제목 : Android + DI + Koin = Easy?!', '- <a href="https://speakerdeck.com/pluu/android-plus-di-plus-koin-equals-easy">[발표 링크]</a>']
@@ -9546,13 +9554,23 @@ module.exports = {
     }]
   },
   detailContents: {
+    '네이버': {
+      'date': '2019.01 - 현재',
+      'project': {
+        'project': [{
+          'date': '2019.01 - 현재',
+          'title': 'Naver Clova 서비스 개발',
+          'contents': []
+        }]
+      }
+    },
     '야놀자': {
-      'date': '2016.05 - 현재',
+      'date': '2016.05 - 2019.01',
       'info': '좋은 숙박을 연구하고 대한민국 숙박산업을 선도합니다.',
       'service': ['Android App<br />', '- <a href="https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp">야놀자 Android Google Play Link</a> <br />'],
       'project': {
         'project': [{
-          'date': '2017.01 - 현재',
+          'date': '2017.01 - 2019.01',
           'title': '야놀자 서비스 개발',
           'contents': ['- 서비스 및 기능 구현', '- 기본 아키텍쳐 (MVP, MVVM, Base, Util Code) 설계 및 개발 구현', '- Retrofit Primitive TypeAdapter Support 작업', '- Kotlin 도입 및 교육 담당', '- GitHub Code Review 기본 가이드 안내', '- 사용 라이브러리 : Kotlin, Constraint Layout, Retrofit, OkHttp, ButterKnife, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Fabric, Gson, Google Maps']
         }, {
