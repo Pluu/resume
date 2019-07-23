@@ -125,6 +125,57 @@ module.exports = {
     ],
     '발표 자료': [
       {
+        'date': '2019.07',
+        'title': 'I/O Extended 2019 Daejeon',
+        'contents': [
+          '발표 제목 : What\'s New in Android Studio',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-daejeon-whats-new-in-android-studio">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2019.07',
+        'title': 'I/O Extended 2019 Busan',
+        'contents': [
+          '발표 제목 : What\'s New in Android Studio',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-busan-whats-new-in-android-studio">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2019.06',
+        'title': 'I/O Extended 2019 Seoul',
+        'contents': [
+          '발표 제목 : What\'s New in Android Studio',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-seoul-whats-new-in-android-studio">[발표 링크]</a>',
+          '- <a href="https://www.youtube.com/watch?v=w5JH8PX0yws">[Keynote 동영상]</a>'
+        ]        
+      },
+      {
+        'date': '2019.06',
+        'title': 'I/O \'19 Extended in Korea Android',
+        'contents': [
+          '발표 제목 : What\'s New in Android',
+          '- <a href="https://speakerdeck.com/pluu/o-19-extended-in-korea-android-whats-new-in-android">[발표 링크]</a>',
+          '- <a href="https://www.youtube.com/watch?v=AwV47sL5paI">[Keynote 동영상]</a>'
+        ]        
+      },
+      {
+        'date': '2019.04',
+        'title': 'For.D 두 번째 행사, 나의 개발 이야기',
+        'contents': [
+          '발표 제목 : 나의 공부와 수집과 목표',
+          '- <a href="https://speakerdeck.com/pluu/nayi-gongbuwa-sujibgwa-mogpyo-for-dot-d">[발표 링크]</a>',
+          '- <a href="https://www.youtube.com/watch?v=Ii72cMZ566Q">[Keynote 동영상]</a>'
+        ]        
+      },
+      {
+        'date': '2019.04',
+        'title': 'Naver Android 4월 밋업',
+        'contents': [
+          '발표 제목 : Android Studio 설정 다시 한번 볼까요?',
+          '- <a href="https://tv.naver.com/v/8458046">[발표 영상]</a>'
+        ]        
+      },
+      {
         'date': '2019.04',
         'title': 'DroidKnights 2019',
         'contents': [
