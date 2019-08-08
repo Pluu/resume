@@ -9282,6 +9282,9 @@ module.exports = {
       'contents': ['']
     }],
     '개인 활동': [{
+      'date': '2018.04 - 현재',
+      'title': 'Google Developers Expert for Android'
+    }, {
       'date': '2017.04 - 현재',
       'title': 'GDG Korea',
       'contents': ['<strong>GDG Korea Android 오거나이저</strong>']
@@ -9331,9 +9334,17 @@ module.exports = {
       'contents': ['Android 책 검토 및 리뷰', '닐 스미스 저 / 심재철 역', '출판사 : 제이펍']
     }],
     '발표 자료': [{
+      'date': '2019.08',
+      'title': '[안드로이드 컨퍼런스] 우리 회사는 이렇게 개발해요',
+      'contents': ['발표 제목 : 서로를 성장시키는 질문', '- <a href="https://speakerdeck.com/pluu/seororeul-seongjangsikineun-jilmun">[발표 링크]</a>']
+    }, {
       'date': '2019.07',
       'title': 'I/O Extended 2019 Daejeon',
       'contents': ['발표 제목 : What\'s New in Android Studio', '- <a href="https://speakerdeck.com/pluu/o-extended-2019-daejeon-whats-new-in-android-studio">[발표 링크]</a>']
+    }, {
+      'date': '2019.07',
+      'title': 'TECH CONCERT: MOBILE 2019',
+      'contents': ['발표 제목 : Android Studio 설정 다시 한번 볼까요?', '- <a href="https://tv.naver.com/v/9329709">[발표 영상]</a>']
     }, {
       'date': '2019.07',
       'title': 'I/O Extended 2019 Busan',
