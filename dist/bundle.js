@@ -9335,6 +9335,10 @@ module.exports = {
     }],
     '발표 자료': [{
       'date': '2019.08',
+      'title': 'Kotlin/Everywhere Seoul 2019',
+      'contents': ['발표 제목 : Kotlin을 여행하는 히치하이커의 준비서', '- <a href="https://speakerdeck.com/pluu/kotlineul-yeohaenghaneun-hicihaikeoyi-junbiseo">[발표 링크]</a>']
+    }, {
+      'date': '2019.08',
       'title': '[안드로이드 컨퍼런스] 우리 회사는 이렇게 개발해요',
       'contents': ['발표 제목 : 서로를 성장시키는 질문', '- <a href="https://speakerdeck.com/pluu/seororeul-seongjangsikineun-jilmun">[발표 링크]</a>']
     }, {
