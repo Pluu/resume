@@ -30,9 +30,24 @@ module.exports = {
         'contents': ['']
       }
     ],
-    '개인 활동': [
+    '개인 프로젝트': [
       {
-        'date': '2018.04 - 현재',
+        'date': '2015.10 - 현재',
+        'title': 'WebToon Viewer Application',
+        'contents': [
+          '- 웹툰 Application',
+          '- Link : <a href="https://github.com/Pluu/WebToon">https://github.com/Pluu/WebToon</a>',
+          '- 다양한 웹툰 사이트의 내용을 하나의 앱내에서 보기 위해서 만든 토이 프로젝트',
+          '- 네이버, 다음, KTOON, 카카오 페이지, 네이트, One Store 지원 (일부 기능 미지원)',
+          '- 크롤링, API 요청 등을 이용하여 정보 처리',
+          '- Kotlin, AndroidX 지원',
+          '- Koin, Jsoup, Glide, OkHttp, RxJava, RxAdnroid'
+        ]
+      }
+    ],
+    '오거나이저 활동': [
+      {
+        'date': '2019.04 - 현재',
         'title': 'Google Developers Expert for Android'
       },
       {
@@ -49,7 +64,9 @@ module.exports = {
           '드로이드 나이츠 2017/2018/2019 오거나이저',
           '- 행사 준비'
         ]
-      },
+      }
+    ],
+    '개인 활동': [      
       {
         'date': '2018.11',
         'title': 'DevFest 2018 Seoul',
@@ -324,21 +341,6 @@ module.exports = {
           '- <a href="https://www.slideshare.net/HyeonSeokNoh/sqlitetorealm">[발표 링크]</a>'
         ]        
       }
-    ],
-    '개인 프로젝트': [
-      {
-        'date': '2015.10 - 현재',
-        'title': 'WebToon Viewer Application',
-        'contents': [
-          '- 웹툰 Application',
-          '- Link : <a href="https://github.com/Pluu/WebToon">https://github.com/Pluu/WebToon</a>',
-          '- 다양한 웹툰 사이트의 내용을 하나의 앱내에서 보기 위해서 만든 토이 프로젝트',
-          '- 네이버, 다음, KTOON, 카카오 페이지, 네이트, One Store 지원 (일부 기능 미지원)',
-          '- 크롤링, API 요청 등을 이용하여 정보 처리',
-          '- Kotlin, AndroidX 지원',
-          '- Koin, Jsoup, Glide, OkHttp, RxJava, RxAdnroid'
-        ]
-      }
     ]
   },
   summary: {
@@ -347,7 +349,7 @@ module.exports = {
         'date': ['2019.01', '현재'],
         'title': '네이버',
         'contents': [
-          'Android 어플리케이션 개발 및 기본 아키텍쳐 설계',
+          '- Android 어플리케이션 개발 및 기본 아키텍쳐 설계'
         ]
       },
       {
@@ -361,8 +363,8 @@ module.exports = {
         'date': ['2015.05', '2016.03'],
         'title': 'EDLSolution',
         'contents': [
-          'Android 어플리케이션 개발',
-          'Crash/Log 수집 SDK 개발'
+          '- Android 어플리케이션 개발',
+          '- Crash/Log 수집 SDK 개발'
         ]
       },
       {
@@ -376,8 +378,8 @@ module.exports = {
         'date': ['2011.11', '2014.04'],
         'title': '(주) Hubilon',
         'contents': [
-          'Android 어플리케이션 개발',
-          '지도 측위 모듈 개발'
+          '- Android 어플리케이션 개발',
+          '- 지도 측위 모듈 개발'
         ]
       },
       {
@@ -397,7 +399,11 @@ module.exports = {
           {
             'date': '2019.01 - 현재',
             'title': 'Naver Clova 서비스 개발',
-            'contents': []
+            'contents': [
+              '- 서비스 기능 구현',
+              '- 클린 아키텍처의 Domain Layer 도입',
+              '- 사용 라이브러리 : Dagger, Koin, Retrofit, OkHttp, Android Architecture Component(LiveData, ViewModel), Glide, Firebase, Gson'
+            ]
           }
         ]
       }
