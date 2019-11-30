@@ -146,6 +146,17 @@ module.exports = {
     ],
     '발표 자료': [
       {
+        'date': '2019.06',
+        'title': 'DevFest 2019',
+        'contents': [
+          '발표 제목 : 최신 AndroidX 체크',
+          'Pangyo, 2019.06',
+          '- <a href="https://speakerdeck.com/pluu/devfest-pangyo-2019-coesin-androidx-cekeu">[발표 링크]</a>',
+          'Songdo, 2019.06',
+          '- <a href="https://speakerdeck.com/pluu/devfest-songdo-2019-coesin-androidx-cekeu-0399b0f7-31b2-4baf-b4bf-541cfe6ac59c">[발표 링크]</a>'
+        ]        
+      },
+      {
         'date': '2019.08',
         'title': 'Kotlin/Everywhere Seoul 2019',
         'contents': [
@@ -163,14 +174,6 @@ module.exports = {
       },
       {
         'date': '2019.07',
-        'title': 'I/O Extended 2019 Daejeon',
-        'contents': [
-          '발표 제목 : What\'s New in Android Studio',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-daejeon-whats-new-in-android-studio">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2019.07',
         'title': 'TECH CONCERT: MOBILE 2019',
         'contents': [
           '발표 제목 : Android Studio 설정 다시 한번 볼까요?',
@@ -178,29 +181,20 @@ module.exports = {
         ]        
       },
       {
-        'date': '2019.07',
-        'title': 'I/O Extended 2019 Busan',
+        'date': '2019.06',
+        'title': 'I/O Extended 2019',
         'contents': [
           '발표 제목 : What\'s New in Android Studio',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-busan-whats-new-in-android-studio">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2019.06',
-        'title': 'I/O Extended 2019 Seoul',
-        'contents': [
-          '발표 제목 : What\'s New in Android Studio',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-seoul-whats-new-in-android-studio">[발표 링크]</a>',
-          '- <a href="https://www.youtube.com/watch?v=w5JH8PX0yws">[Keynote 동영상]</a>'
-        ]        
-      },
-      {
-        'date': '2019.06',
-        'title': 'I/O \'19 Extended in Korea Android',
-        'contents': [
-          '발표 제목 : What\'s New in Android',
+          'Korea Android, 2019.06',
           '- <a href="https://speakerdeck.com/pluu/o-19-extended-in-korea-android-whats-new-in-android">[발표 링크]</a>',
-          '- <a href="https://www.youtube.com/watch?v=AwV47sL5paI">[Keynote 동영상]</a>'
+          '- <a href="https://www.youtube.com/watch?v=AwV47sL5paI">[Keynote 동영상]</a>',
+          'Seoul 2019.06',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-seoul-whats-new-in-android-studio">[발표 링크]</a>',
+          '- <a href="https://www.youtube.com/watch?v=w5JH8PX0yws">[Keynote 동영상]</a>',
+          'Busan 2019.07',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-busan-whats-new-in-android-studio">[발표 링크]</a>',
+          'Daejeon 2019.07',
+          '- <a href="hhttps://speakerdeck.com/pluu/o-extended-2019-daejeon-whats-new-in-android-studio">[발표 링크]</a>'
         ]        
       },
       {
