@@ -146,13 +146,13 @@ module.exports = {
     ],
     '발표 자료': [
       {
-        'date': '2019.06',
+        'date': '2019.11',
         'title': 'DevFest 2019',
         'contents': [
           '발표 제목 : 최신 AndroidX 체크',
-          'Pangyo, 2019.06',
+          'Pangyo, 2019.11',
           '- <a href="https://speakerdeck.com/pluu/devfest-pangyo-2019-coesin-androidx-cekeu">[발표 링크]</a>',
-          'Songdo, 2019.06',
+          'Songdo, 2019.11',
           '- <a href="https://speakerdeck.com/pluu/devfest-songdo-2019-coesin-androidx-cekeu-0399b0f7-31b2-4baf-b4bf-541cfe6ac59c">[발표 링크]</a>'
         ]        
       },

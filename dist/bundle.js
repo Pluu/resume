@@ -9340,9 +9340,9 @@ module.exports = {
       'contents': ['Android 책 검토 및 리뷰', '닐 스미스 저 / 심재철 역', '출판사 : 제이펍']
     }],
     '발표 자료': [{
-      'date': '2019.06',
+      'date': '2019.11',
       'title': 'DevFest 2019',
-      'contents': ['발표 제목 : 최신 AndroidX 체크', 'Pangyo, 2019.06', '- <a href="https://speakerdeck.com/pluu/devfest-pangyo-2019-coesin-androidx-cekeu">[발표 링크]</a>', 'Songdo, 2019.06', '- <a href="https://speakerdeck.com/pluu/devfest-songdo-2019-coesin-androidx-cekeu-0399b0f7-31b2-4baf-b4bf-541cfe6ac59c">[발표 링크]</a>']
+      'contents': ['발표 제목 : 최신 AndroidX 체크', 'Pangyo, 2019.11', '- <a href="https://speakerdeck.com/pluu/devfest-pangyo-2019-coesin-androidx-cekeu">[발표 링크]</a>', 'Songdo, 2019.11', '- <a href="https://speakerdeck.com/pluu/devfest-songdo-2019-coesin-androidx-cekeu-0399b0f7-31b2-4baf-b4bf-541cfe6ac59c">[발표 링크]</a>']
     }, {
       'date': '2019.08',
       'title': 'Kotlin/Everywhere Seoul 2019',
