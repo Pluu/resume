@@ -146,6 +146,14 @@ module.exports = {
     ],
     '발표 자료': [
       {
+        'date': '2019.12',
+        'title': 'Android Dev Summit 2019 extended Seoul',
+        'contents': [
+          '발표 제목 : New in Android Studio',
+          '- <a href="https://speakerdeck.com/pluu/new-in-android-studio">[발표 링크]</a>'
+        ]        
+      },
+      {
         'date': '2019.11',
         'title': 'DevFest 2019',
         'contents': [
