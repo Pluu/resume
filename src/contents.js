@@ -401,12 +401,26 @@ module.exports = {
     ]
   },
   detailContents: {
-    '네이버': {
-      'date': '2019.01 - 현재',
+    '카카오뱅크': {
+      'date': '2020.01 - 현재',
       'project': {
         'project': [
           {
-            'date': '2019.01 - 현재',
+            'date': '2020.01 - 현재',
+            'title': '카카오뱅크 앱 개발',
+            'contents': [
+              '- 서비스 기능 구현'
+            ]
+          }
+        ]
+      }
+    },
+    '네이버': {
+      'date': '2019.01 - 2019.12',
+      'project': {
+        'project': [
+          {
+            'date': '2019.01 - 2019.12',
             'title': 'Naver Clova 서비스 개발',
             'contents': [
               '- 서비스 기능 구현',
