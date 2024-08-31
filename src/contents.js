@@ -273,9 +273,11 @@ module.exports = {
             'date': '2020.01 - 현재',
             'title': '카카오뱅크 앱 개발',
             'contents': [
-              '- 서비스 기능 구현',
+              '- 서비스 기능 구현 및 유지보수',
+              '- 커스텀 Android Studio Plugin 개발 (모듈 및 Base 코드 작성)',
+              '- 커스텀 Lint 작성',
               '- AndroidX 및 Android Studio 업데이트 대응',
-              '- 레거시 코드 마이그레이션 대응 (Deprecated, Java to Kotlin)'
+              '- 레거시 코드 마이그레이션 대응 (Deprecated, Java to Kotlin)',          
             ]
           }
         ]
