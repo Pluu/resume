@@ -66,7 +66,39 @@ module.exports = {
         ]
       }
     ],
-    '발표 자료': [
+    '주요 발표 자료': [
+      {
+        'date': '2024.07',
+        'title': 'Whats new in Android development tools',
+        'contents': [
+          '- 행사 주최 : I/O Extended Android in Korea 2024',
+          '- <a href="https://speakerdeck.com/pluu/o-extended-android-in-korea-2024-whats-new-in-android-development-tools">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2023.12',
+        'title': '우리모두 삽질한다',
+        'contents': [
+          '- 행사 주최 : DEVFEST 23 Songdo',
+          '- <a href="https://speakerdeck.com/pluu/urimodu-sabjilhanda">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2023.09',
+        'title': 'Re:Android Studio 설정 살펴보기 및 생산성 올리기',
+        'contents': [
+          '- 행사 주최 : DroidKnights 2023',
+          '- <a href="https://speakerdeck.com/pluu/re-android-studio-seoljeong-salpyeobogi-mic-saengsanseong-olrigi">[발표 링크]</a>'
+        ]        
+      },
+      {
+        'date': '2022.05',
+        'title': '코드 품질 1% 올리기',
+        'contents': [
+          '- 행사 주최 : [안드로이드 컨퍼런스] 코로나시대의 안드로이드 개발자들',
+          '- <a href="https://speakerdeck.com/pluu/kodeu-pumjil-1-percent-olrigi">[발표 링크]</a>'
+        ]        
+      },
       {
         'date': '2021.11',
         'title': '시작하는 안드로이드 개발자를 위해 ~ THINK',
@@ -93,43 +125,10 @@ module.exports = {
       },
       {
         'date': '2021.06',
-        'title': 'What\'s new in Android Develop',
-        'contents': [
-          '- 행사 주최 : Google I/O extended with double S',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-with-double-s-whats-new-in-android-develop">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2021.06',
         'title': '나!!!만의 방법으로 성장하기',
         'contents': [
           '- 행사 주최 : 원티드',
           '- <a href="https://speakerdeck.com/pluu/na-manyi-bangbeobeuro-seongjanghagi">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2020.07',
-        'title': 'What’s new in Android Studio',
-        'contents': [
-          '- 행사 주최 : Android 11 Meetups',
-          '- <a href="https://speakerdeck.com/pluu/android-11-meetups-whats-new-in-android-studio">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2019.12',
-        'title': 'New in Android Studio',
-        'contents': [
-          '- 행사 주최 : Android Dev Summit 2019 extended Seoul',
-          '- <a href="https://speakerdeck.com/pluu/new-in-android-studio">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2019.11',
-        'title': '최신 AndroidX 체크',
-        'contents': [
-          '- 행사 주최 : DevFest 2019',
-          '- <a href="https://speakerdeck.com/pluu/devfest-pangyo-2019-coesin-androidx-cekeu">[Pangyo - 발표 링크]</a>',
-          '- <a href="https://speakerdeck.com/pluu/devfest-songdo-2019-coesin-androidx-cekeu-0399b0f7-31b2-4baf-b4bf-541cfe6ac59c">[Songdo - 발표 링크]</a>'
         ]        
       },
       {
@@ -149,48 +148,6 @@ module.exports = {
         ]        
       },
       {
-        'date': '2019.07',
-        'title': 'Android Studio 설정 다시 한번 볼까요?',
-        'contents': [
-          '- 행사 주최 : TECH CONCERT: MOBILE 2019',
-          '- <a href="https://tv.naver.com/v/9329709">[발표 영상]</a>'
-        ]        
-      },
-      {
-        'date': '2019.06',
-        'title': 'What\'s New in Android Studio',
-        'contents': [
-          '- 행사 주최 : I/O Extended 2019',
-          'Korea Android, 2019.06',
-          '- <a href="https://speakerdeck.com/pluu/o-19-extended-in-korea-android-whats-new-in-android">[발표 링크]</a>',
-          '- <a href="https://www.youtube.com/watch?v=AwV47sL5paI">[Keynote 동영상]</a>',
-          'Seoul 2019.06',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-seoul-whats-new-in-android-studio">[발표 링크]</a>',
-          '- <a href="https://www.youtube.com/watch?v=w5JH8PX0yws">[Keynote 동영상]</a>',
-          'Busan 2019.07',
-          '- <a href="https://speakerdeck.com/pluu/o-extended-2019-busan-whats-new-in-android-studio">[발표 링크]</a>',
-          'Daejeon 2019.07',
-          '- <a href="hhttps://speakerdeck.com/pluu/o-extended-2019-daejeon-whats-new-in-android-studio">[발표 링크]</a>'
-        ]        
-      },
-      {
-        'date': '2019.04',
-        'title': '나의 공부와 수집과 목표',
-        'contents': [
-          '- 행사 주최 : For.D 두 번째 행사, 나의 개발 이야기',
-          '- <a href="https://speakerdeck.com/pluu/nayi-gongbuwa-sujibgwa-mogpyo-for-dot-d">[발표 링크]</a>',
-          '- <a href="https://www.youtube.com/watch?v=Ii72cMZ566Q">[Keynote 동영상]</a>'
-        ]        
-      },
-      {
-        'date': '2019.04',
-        'title': 'Android Studio 설정 다시 한번 볼까요?',
-        'contents': [
-          '- 행사 주최 : Naver Android 4월 밋업',
-          '- <a href="https://tv.naver.com/v/8458046">[발표 영상]</a>'
-        ]        
-      },
-      {
         'date': '2019.04',
         'title': 'MotionLayout 무릎까지 담궈보기',
         'contents': [
@@ -199,14 +156,6 @@ module.exports = {
           '- <a href="https://www.youtube.com/watch?v=bHp-pIpm92s">[Keynote 동영상]</a>'
         ]        
       },
-      {
-        'date': '2019.01',
-        'title': '성장하기 위해 번역하는 나',
-        'contents': [
-          '- 행사 주최 : 기술 문서 번역 모임: 번역 도구 이야기',
-          '- <a href="https://speakerdeck.com/pluu/seongjanghagi-wihae-beonyeoghaneun-na">[발표 링크]</a>'
-        ]        
-      }
     ]
   },
   summary: {
